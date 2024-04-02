@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  JRNLSwiftUI
 //
-//  Created by 🇭🇰Ry Wong on 02/04/2024.
+//  Created by Ryan Wong on 02/04/2024.
 //
 
 import SwiftUI

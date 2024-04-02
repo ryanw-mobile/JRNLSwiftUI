@@ -96,6 +96,7 @@
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1530;
 				LastUpgradeCheck = 1530;
+				ORGANIZATIONNAME = "RW MobiMedia UK";
 				TargetAttributes = {
 					0D1308742BBCA4A40082AB93 = {
 						CreatedOnToolsVersion = 15.3;
