@@ -13,6 +13,7 @@
 		0D1308802BBCA4A50082AB93 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0D13087F2BBCA4A50082AB93 /* Preview Assets.xcassets */; };
 		0D1308872BBCAC5C0082AB93 /* JournalEntry.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D1308862BBCAC5C0082AB93 /* JournalEntry.swift */; };
 		0D1308892BBCB07D0082AB93 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D1308882BBCB07D0082AB93 /* MapView.swift */; };
+		0D13088B2BBCB17E0082AB93 /* JourneyEntryDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D13088A2BBCB17E0082AB93 /* JourneyEntryDetail.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		0D13087F2BBCA4A50082AB93 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		0D1308862BBCAC5C0082AB93 /* JournalEntry.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = JournalEntry.swift; path = ../../../../Downloads/safetodelete/Chapter24/resources/JournalEntry.swift; sourceTree = "<group>"; };
 		0D1308882BBCB07D0082AB93 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		0D13088A2BBCB17E0082AB93 /* JourneyEntryDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JourneyEntryDetail.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				0D1308782BBCA4A40082AB93 /* JRNLSwiftUIApp.swift */,
 				0D13087A2BBCA4A40082AB93 /* ContentView.swift */,
 				0D1308882BBCB07D0082AB93 /* MapView.swift */,
+				0D13088A2BBCB17E0082AB93 /* JourneyEntryDetail.swift */,
 				0D13087C2BBCA4A50082AB93 /* Assets.xcassets */,
 				0D13087E2BBCA4A50082AB93 /* Preview Content */,
 			);
@@ -145,6 +148,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0D1308872BBCAC5C0082AB93 /* JournalEntry.swift in Sources */,
+				0D13088B2BBCB17E0082AB93 /* JourneyEntryDetail.swift in Sources */,
 				0D1308892BBCB07D0082AB93 /* MapView.swift in Sources */,
 				0D13087B2BBCA4A40082AB93 /* ContentView.swift in Sources */,
 				0D1308792BBCA4A40082AB93 /* JRNLSwiftUIApp.swift in Sources */,
