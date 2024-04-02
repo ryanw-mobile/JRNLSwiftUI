@@ -16,8 +16,8 @@ struct ContentView: View {
                 JournalCell(journalEntry: journalEntry)
             }.navigationTitle("Journal List")
                 .navigationDestination(for: JournalEntry.self) {
-                    JournalEntry in
-                    Text(JournalEntry.entryTitle)
+                    journalEntry in
+                    JournalEntryDetail(selectedJournalEntry: journalEntry)
                 }
         }
     }

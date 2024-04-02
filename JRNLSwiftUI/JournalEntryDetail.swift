@@ -1,5 +1,5 @@
 //
-//  JourneyEntryDetail.swift
+//  JournalEntryDetail.swift
 //  JRNLSwiftUI
 //
 //  Created by Ryan Wong on 02/04/2024.
@@ -8,7 +8,7 @@
 
 import SwiftUI
 
-struct JourneyEntryDetail: View {
+struct JournalEntryDetail: View {
     var selectedJournalEntry: JournalEntry
     var body: some View {
         ScrollView {
@@ -51,6 +51,6 @@ struct JourneyEntryDetail: View {
 
 #Preview {
     NavigationView {
-        JourneyEntryDetail(selectedJournalEntry: testData[0])
+        JournalEntryDetail(selectedJournalEntry: testData[0])
     }
 }
